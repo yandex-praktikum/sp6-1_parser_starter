@@ -1,3 +1,5 @@
+// Этот файл оживляет страницу: переключает фотографии, лайк и описание. Менять его не нужно.
+
 const mainImage = document.querySelector('.preview figure img');
 document.querySelector('.preview nav').addEventListener('click', (e) => {
     let img, btn;

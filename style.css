@@ -188,7 +188,6 @@ main {
                 background-color: var(--secondary-color);
                 border-radius: var(--radius);
                 font-size: 0.8rem;
-                text-transform: capitalize;
             }
 
             span.green {
@@ -226,7 +225,6 @@ main {
 
                 span:first-child {
                     color: var(--font-color-secondary);
-                    text-transform: capitalize;
                 }
             }
         }
@@ -305,11 +303,9 @@ main {
         h3 {
             font-weight: 400;
             font-size: 1rem;
-            text-transform: capitalize;
         }
 
         p {
-            text-transform: capitalize;
             color: var(--font-color-secondary);
             margin-bottom: 0;
         }
@@ -361,7 +357,6 @@ main {
 
             span {
                 grid-area: name;
-                text-transform: capitalize;
             }
 
             i {
